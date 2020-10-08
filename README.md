@@ -37,12 +37,12 @@
 
 ## Day 1
 
-- [] React + React Router DOM + Formik setup
-- [] Home Page (Public)
-- [] Login Page
-- [] Signup Page
-- [] Private Articles Page
-- [] Complete Authentication
+ [] React + React Router DOM + Formik setup
+ [] Home Page (Public)
+ [] Login Page
+ [] Signup Page
+ [] Private Articles Page
+ [] Complete Authentication
 
     React + React Router DOM + Formik setup
 
@@ -81,11 +81,11 @@
    - Signup Button
 
     Each field (email, and password) should contain client side form validation
-        Email should contain @
-        Password should be at-least 6 characters
-        Password must contain a letter and a number
-        No fields can be empty
-        Username should be at-least 6 characters long
+       - Email should contain @
+       - Password should be at-least 6 characters
+       - Password must contain a letter and a number
+       - No fields can be empty
+       - Username should be at-least 6 characters long
 
     Private Articles Page
 
